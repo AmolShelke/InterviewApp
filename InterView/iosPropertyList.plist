@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IOS</key>
+	<array>
+		<string>Explain the difference between atomic and nonatomic synthesized properties?</string>
+		<string>What is the reuseIdentifier used for?</string>
+		<string>Explain the difference between copy and retain?</string>
+		<string>What is a category and when is it used?</string>
+		<string>What is the Responder Chain?</string>
+		<string>What is the difference between viewDidLoad and viewDidAppear? Which should you use to load data from a remote server to display in the view?</string>
+	</array>
+	<key>OBJ</key>
+	<array>
+		<string>Explain what are objective- C blocks?</string>
+		<string>Mention whether NS object is a parent class or derived class?</string>
+		<string>Explain what is synthesized in Objective-C?</string>
+		<string>Explain when to use NSArray and NSMutableArray?</string>
+		<string>Explain what are the characteristics of the category?</string>
+		<string>Mention what is the use of category in Objective-C?</string>
+		<string>Explain class definition in Objective-C?</string>
+		<string>Explain what objective-C program basically consists of?</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>C++</key>
+	<array>
+		<string>What is c++?</string>
+		<string>Difference between C &amp; C++?</string>
+		<string>What is Encapsulation?</string>
+		<string>What is Abstraction?</string>
+		<string>What is Inheritance?</string>
+		<string>What is Polymorphism?</string>
+		<string>What is Function Overloading?</string>
+		<string>Fibonacci series using loop</string>
+		<string>Define the Private,Protected and Public in C++?</string>
+		<string>What is Constructor?</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>Why C is known as mother language?</string>
+		<string>why C is called a midlevel programming language?</string>
+		<string>What are the features of C language?</string>
+		<string>What is difference between local variable and global variable?</string>
+		<string>What is the use of static variable in C?</string>
+		<string>What is static memory allocation?</string>
+		<string>What is Dyanamic memory allocation?</string>
+		<string>Write a program to print fibonacci series?</string>
+		<string>what is TypeCasting?</string>
+		<string>Who has Developed C?</string>
+	</array>
+	<key>HR</key>
+	<array>
+		<string>Tell me about yourself?</string>
+		<string>what are your strength?</string>
+		<string>what is difference between confidence &amp; overconfidence?
+</string>
+		<string>what is difference between smart work &amp; hard work?</string>
+		<string>what are your hobbies?</string>
+		<string>What are your salary expectations?</string>
+		<string>Why should we hire you?</string>
+		<string>Do you have any questions for me?</string>
+		<string>What is your favorite books?</string>
+		<string>What does success means to you?
+</string>
+	</array>
+</dict>
+</plist>
